@@ -1,0 +1,105 @@
+﻿[
+  {
+    "scenario": "aaa",
+    "labelsOfVertexes": [
+      {
+        "itemLabel": "和尚",
+        "color": "#808080"
+      },
+      {
+        "itemLabel": "妖怪_活",
+        "color": "#FF4C94"
+      },
+      {
+        "itemLabel": "妖怪_死",
+        "color": "#E83344"
+      },
+      {
+        "itemLabel": "神仙_道派",
+        "color": "#009DDC"
+      },
+      {
+        "itemLabel": "神仙_佛派",
+        "color": "#9DE7B7"
+      },
+      {
+        "itemLabel": "团体_妖怪",
+        "color": "#F5A100"
+      }
+    ],
+    "relationTypesOfEdges": [
+      {
+        "itemLabel": "下级",
+        "color": "#4E9C92"
+      },
+      {
+        "itemLabel": "上级",
+        "color": "#669393"
+      },
+      {
+        "itemLabel": "妻子",
+        "color": "#1718CE"
+      },
+      {
+        "itemLabel": "丈夫",
+        "color": "#D45A7E"
+      },
+      {
+        "itemLabel": "儿子",
+        "color": "#671A3B"
+      },
+      {
+        "itemLabel": "父亲",
+        "color": "#C5A8BF"
+      },
+      {
+        "itemLabel": "母亲",
+        "color": "#C2ECDB"
+      },
+      {
+        "itemLabel": "女儿",
+        "color": "#17034A"
+      },
+      {
+        "itemLabel": "兄弟",
+        "color": "#00D86C"
+      },
+      {
+        "itemLabel": "组成",
+        "color": "#FD9F7F"
+      },
+      {
+        "itemLabel": "孙子",
+        "color": "#9A04A6"
+      },
+      {
+        "itemLabel": "祖父",
+        "color": "#F19DB9"
+      },
+      {
+        "itemLabel": "亲戚",
+        "color": "#9DE7B7"
+      },
+      {
+        "itemLabel": "奴仆",
+        "color": "#E2E016"
+      },
+      {
+        "itemLabel": "主人",
+        "color": "#E481D8"
+      },
+      {
+        "itemLabel": "杀死",
+        "color": "#F42A67"
+      },
+      {
+        "itemLabel": "打伤",
+        "color": "#001281"
+      },
+      {
+        "itemLabel": "收服",
+        "color": "#3C8262"
+      }
+    ]
+  }
+]

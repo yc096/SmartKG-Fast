@@ -1,0 +1,2529 @@
+﻿[
+  {
+    "id": "c440e797-021d-58f5-aee3-0ac0f622fbf2",
+    "name": "唐三藏",
+    "label": "和尚",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "唐僧、御弟"
+      },
+      {
+        "name": "原形",
+        "value": "人"
+      },
+      {
+        "name": "所在地",
+        "value": "大唐"
+      },
+      {
+        "name": "来源",
+        "value": "金蝉子转世"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "成正果"
+      },
+      {
+        "name": "结局细节",
+        "value": "成为旃檀功德佛"
+      }
+    ]
+  },
+  {
+    "id": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "name": "孙悟空",
+    "label": "和尚",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "齐天大圣、孙行者、弼马温"
+      },
+      {
+        "name": "原形",
+        "value": "猴子"
+      },
+      {
+        "name": "所在地",
+        "value": "花果山"
+      },
+      {
+        "name": "洞府",
+        "value": "水帘洞"
+      },
+      {
+        "name": "来源",
+        "value": "天生石猴"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "成正果"
+      },
+      {
+        "name": "结局细节",
+        "value": "成为斗战胜佛"
+      }
+    ]
+  },
+  {
+    "id": "6219182b-1671-56cc-9c34-c3d134bc63dd",
+    "name": "猪悟能",
+    "label": "和尚",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "猪八戒、猪刚鬣"
+      },
+      {
+        "name": "原形",
+        "value": "野猪"
+      },
+      {
+        "name": "所在地",
+        "value": "高老庄"
+      },
+      {
+        "name": "来源",
+        "value": "天蓬元帅下凡"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "成正果"
+      },
+      {
+        "name": "结局细节",
+        "value": "成为净坛使者"
+      }
+    ]
+  },
+  {
+    "id": "039176d6-e1cb-5a8e-b102-c0ee02790a91",
+    "name": "沙悟净",
+    "label": "和尚",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "沙僧、沙和尚"
+      },
+      {
+        "name": "原形",
+        "value": "人"
+      },
+      {
+        "name": "所在地",
+        "value": "流沙河"
+      },
+      {
+        "name": "来源",
+        "value": "卷帘大将下凡"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "成正果"
+      },
+      {
+        "name": "结局细节",
+        "value": "成为金身罗汉"
+      }
+    ]
+  },
+  {
+    "id": "41b4d6f9-fe26-5bdd-a668-2b17c3545dc1",
+    "name": "白龙马",
+    "label": "和尚",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "小白龙、三太子"
+      },
+      {
+        "name": "原形",
+        "value": "龙"
+      },
+      {
+        "name": "所在地",
+        "value": "西海"
+      },
+      {
+        "name": "洞府",
+        "value": "龙宫"
+      },
+      {
+        "name": "来源",
+        "value": "西海三太子"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "成正果"
+      },
+      {
+        "name": "结局细节",
+        "value": "成为八部天龙"
+      }
+    ]
+  },
+  {
+    "id": "2aadcdb2-ade0-5f10-ba68-75d0b787e431",
+    "name": "黄眉大王",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "黄眉老祖、黄眉童子"
+      },
+      {
+        "name": "原形",
+        "value": "童子"
+      },
+      {
+        "name": "洞府",
+        "value": "小雷音寺"
+      },
+      {
+        "name": "来源",
+        "value": "司磬黄眉童子"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被弥勒佛收走"
+      },
+      {
+        "name": "背景",
+        "value": "灵山"
+      }
+    ]
+  },
+  {
+    "id": "c93b9266-a384-5978-a426-c1ce88eee4b0",
+    "name": "赛太岁",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "金毛犼"
+      },
+      {
+        "name": "所在地",
+        "value": "麒麟山"
+      },
+      {
+        "name": "洞府",
+        "value": "獬豸洞"
+      },
+      {
+        "name": "来源",
+        "value": "观音坐骑金毛犼"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被观音菩萨收回"
+      },
+      {
+        "name": "背景",
+        "value": "灵山"
+      }
+    ]
+  },
+  {
+    "id": "fc004ba9-2bd5-5a4f-b1b4-1c65e3f02668",
+    "name": "青毛狮子",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "狮驼岭老魔"
+      },
+      {
+        "name": "原形",
+        "value": "狮子"
+      },
+      {
+        "name": "所在地",
+        "value": "狮驼岭"
+      },
+      {
+        "name": "洞府",
+        "value": "狮驼洞"
+      },
+      {
+        "name": "来源",
+        "value": "原文殊菩萨坐骑青狮"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被文殊菩萨收回"
+      },
+      {
+        "name": "背景",
+        "value": "灵山"
+      }
+    ]
+  },
+  {
+    "id": "96b6515c-fff0-5426-9ef9-b0bd95c68a07",
+    "name": "黄牙老象",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "狮驼岭二魔"
+      },
+      {
+        "name": "原形",
+        "value": "大象"
+      },
+      {
+        "name": "所在地",
+        "value": "狮驼岭"
+      },
+      {
+        "name": "洞府",
+        "value": "狮驼洞"
+      },
+      {
+        "name": "来源",
+        "value": "原普贤菩萨坐骑白象"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被普贤菩萨收回"
+      },
+      {
+        "name": "背景",
+        "value": "灵山"
+      }
+    ]
+  },
+  {
+    "id": "efb1e4ed-8878-5ff3-b8c9-6514ce20251e",
+    "name": "金翅大鹏雕",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "云程万里鹏"
+      },
+      {
+        "name": "原形",
+        "value": "大鹏"
+      },
+      {
+        "name": "所在地",
+        "value": "狮驼国"
+      },
+      {
+        "name": "来源",
+        "value": "原如来佛祖的娘舅"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被如来收回"
+      },
+      {
+        "name": "背景",
+        "value": "灵山"
+      }
+    ]
+  },
+  {
+    "id": "4547e611-0aea-5fa0-8b91-527e3697a1a0",
+    "name": "狮猁怪",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "狮猁王"
+      },
+      {
+        "name": "原形",
+        "value": "狮子"
+      },
+      {
+        "name": "所在地",
+        "value": "乌鸡国"
+      },
+      {
+        "name": "来源",
+        "value": "原文殊菩萨坐骑青毛狮子"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被文殊菩萨收走"
+      },
+      {
+        "name": "背景",
+        "value": "灵山"
+      }
+    ]
+  },
+  {
+    "id": "04ce340d-3a8c-5a18-920c-cbfc9063f02b",
+    "name": "黄风怪",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "黄风大王"
+      },
+      {
+        "name": "原形",
+        "value": "黄毛貂鼠"
+      },
+      {
+        "name": "所在地",
+        "value": "黄风岭"
+      },
+      {
+        "name": "洞府",
+        "value": "黄风洞"
+      },
+      {
+        "name": "来源",
+        "value": "原灵山黄毛貂鼠"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被灵吉菩萨押回西天正罪"
+      },
+      {
+        "name": "背景",
+        "value": "灵山"
+      }
+    ]
+  },
+  {
+    "id": "f885ce57-9044-5769-b3dc-fa90e1962f90",
+    "name": "灵感大王",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "金鱼"
+      },
+      {
+        "name": "所在地",
+        "value": "通天河"
+      },
+      {
+        "name": "来源",
+        "value": "原观音菩萨莲花池里金鱼精"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被观音以鱼篮收走"
+      },
+      {
+        "name": "背景",
+        "value": "灵山"
+      }
+    ]
+  },
+  {
+    "id": "246ceef1-e4a7-5d3e-a814-233b70360b46",
+    "name": "蝎子精",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "蝎子"
+      },
+      {
+        "name": "所在地",
+        "value": "敌赌山"
+      },
+      {
+        "name": "洞府",
+        "value": "琵琶洞"
+      },
+      {
+        "name": "来源",
+        "value": "当年在灵山雷音寺听佛祖讲经"
+      },
+      {
+        "name": "性别",
+        "value": "女"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被昴日星官喊死"
+      },
+      {
+        "name": "背景",
+        "value": "灵山"
+      }
+    ]
+  },
+  {
+    "id": "9ebd96e3-59f3-5092-99a5-7fe7cf7374d8",
+    "name": "金鼻白毛老鼠精",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "半截观音、地涌夫人"
+      },
+      {
+        "name": "原形",
+        "value": "老鼠"
+      },
+      {
+        "name": "所在地",
+        "value": "陷空山"
+      },
+      {
+        "name": "洞府",
+        "value": "无底洞"
+      },
+      {
+        "name": "来源",
+        "value": "金鼻白毛老鼠"
+      },
+      {
+        "name": "性别",
+        "value": "女"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被李天王押回天庭发落"
+      },
+      {
+        "name": "背景",
+        "value": "灵山;天庭"
+      }
+    ]
+  },
+  {
+    "id": "f07cb1a2-a648-59ff-9273-4c5402f35015",
+    "name": "独角兕大王",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "青牛精"
+      },
+      {
+        "name": "原形",
+        "value": "牛"
+      },
+      {
+        "name": "所在地",
+        "value": "金兜山"
+      },
+      {
+        "name": "洞府",
+        "value": "金兜洞"
+      },
+      {
+        "name": "来源",
+        "value": "原太上老君坐骑青牛"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被太上老君收回"
+      },
+      {
+        "name": "背景",
+        "value": "天庭"
+      }
+    ]
+  },
+  {
+    "id": "08bdf874-41c8-564c-8250-5878ee5f1fbb",
+    "name": "九灵元圣",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "九头狮子"
+      },
+      {
+        "name": "原形",
+        "value": "狮子"
+      },
+      {
+        "name": "所在地",
+        "value": "竹节山"
+      },
+      {
+        "name": "洞府",
+        "value": "九曲盘桓洞"
+      },
+      {
+        "name": "来源",
+        "value": "太乙救苦天尊天尊"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被太乙救苦天尊收回"
+      },
+      {
+        "name": "背景",
+        "value": "天庭"
+      }
+    ]
+  },
+  {
+    "id": "2f2e7204-92d4-5c3e-a704-2fc07c878f94",
+    "name": "金角大王",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "金灵童子"
+      },
+      {
+        "name": "原形",
+        "value": "童子"
+      },
+      {
+        "name": "所在地",
+        "value": "平顶山"
+      },
+      {
+        "name": "洞府",
+        "value": "莲花洞"
+      },
+      {
+        "name": "来源",
+        "value": "原太上老君门下看守金炉的金灵童子"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被太上老君带走"
+      },
+      {
+        "name": "背景",
+        "value": "天庭"
+      }
+    ]
+  },
+  {
+    "id": "250b0625-8213-5518-8a00-da3dce2b72e6",
+    "name": "银角大王",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "银灵童子"
+      },
+      {
+        "name": "原形",
+        "value": "童子"
+      },
+      {
+        "name": "所在地",
+        "value": "平顶山"
+      },
+      {
+        "name": "洞府",
+        "value": "莲花洞"
+      },
+      {
+        "name": "来源",
+        "value": "原太上老君看金炉的银灵童子"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被太上老君带走"
+      },
+      {
+        "name": "背景",
+        "value": "天庭"
+      }
+    ]
+  },
+  {
+    "id": "39e15a53-1a84-5e3b-ae80-b7d4de75b70f",
+    "name": "黄袍怪",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "奎木狼"
+      },
+      {
+        "name": "原形",
+        "value": "狼"
+      },
+      {
+        "name": "所在地",
+        "value": "碗子山"
+      },
+      {
+        "name": "洞府",
+        "value": "波月洞"
+      },
+      {
+        "name": "来源",
+        "value": "原天界奎木狼"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被召回天庭"
+      },
+      {
+        "name": "背景",
+        "value": "天庭"
+      }
+    ]
+  },
+  {
+    "id": "412e7f25-1654-547c-8427-6e260761e71b",
+    "name": "玉兔精",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "兔子"
+      },
+      {
+        "name": "所在地",
+        "value": "天竺国"
+      },
+      {
+        "name": "来源",
+        "value": "原广寒宫捣玄霜仙药玉兔"
+      },
+      {
+        "name": "性别",
+        "value": "存疑"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被太阴仙子收回月宫"
+      },
+      {
+        "name": "背景",
+        "value": "天庭"
+      }
+    ]
+  },
+  {
+    "id": "64fef0e3-29b3-5310-8d40-688016749be3",
+    "name": "鼍龙",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "鼍龙怪、鼍洁"
+      },
+      {
+        "name": "原形",
+        "value": "鼍龙"
+      },
+      {
+        "name": "来源",
+        "value": "原泾河龙王之子-西海龙王的亲外甥"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被摩昂太子捉回西海"
+      },
+      {
+        "name": "背景",
+        "value": "天庭"
+      }
+    ]
+  },
+  {
+    "id": "6404a185-a922-5866-b171-6aa8ffc9f2bc",
+    "name": "白鹿精",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "白鹿精"
+      },
+      {
+        "name": "原形",
+        "value": "白鹿"
+      },
+      {
+        "name": "所在地",
+        "value": "比丘国"
+      },
+      {
+        "name": "来源",
+        "value": "原南极仙翁所骑白鹿"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被南极仙翁收回"
+      },
+      {
+        "name": "背景",
+        "value": "天庭"
+      }
+    ]
+  },
+  {
+    "id": "9626ff6b-f138-5b2c-825c-d0b832d78422",
+    "name": "白骨夫人",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "白骨精"
+      },
+      {
+        "name": "原形",
+        "value": "白骨"
+      },
+      {
+        "name": "来源",
+        "value": "原形骷髅"
+      },
+      {
+        "name": "性别",
+        "value": "女"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "被悟空打死"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "5ac3848d-cf8d-5296-bda1-8c2f065903bb",
+    "name": "虎力大仙",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "大国师"
+      },
+      {
+        "name": "原形",
+        "value": "虎"
+      },
+      {
+        "name": "所在地",
+        "value": "车迟国"
+      },
+      {
+        "name": "来源",
+        "value": "原形黄毛虎"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "比赛砍头被孙悟空破掉法术而亡"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "4399f990-b615-58de-951b-0d7bc2d24863",
+    "name": "鹿力大仙",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "二国师"
+      },
+      {
+        "name": "原形",
+        "value": "鹿"
+      },
+      {
+        "name": "所在地",
+        "value": "车迟国"
+      },
+      {
+        "name": "来源",
+        "value": "原形白角鹿"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "剖腹挖心时被孙悟空变鹰吃尽肝脏"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "57cb2c3e-c2ca-57c1-a49a-8da4631bf2ad",
+    "name": "羊力大仙",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "三国师"
+      },
+      {
+        "name": "原形",
+        "value": "羊"
+      },
+      {
+        "name": "所在地",
+        "value": "车迟国"
+      },
+      {
+        "name": "来源",
+        "value": "原形花斑羚羊"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "油锅洗澡时被收去冷龙，皮焦肉烂"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "b9985d04-1041-513d-a4ba-6707b2e6a2cb",
+    "name": "南山大王",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "豹子"
+      },
+      {
+        "name": "所在地",
+        "value": "隐雾山"
+      },
+      {
+        "name": "洞府",
+        "value": "折岳连环洞"
+      },
+      {
+        "name": "来源",
+        "value": "原形艾叶花豹子精"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "被八戒打死"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "11394d0c-0016-50cd-84d8-8f0630dea082",
+    "name": "辟寒大王",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "犀牛"
+      },
+      {
+        "name": "所在地",
+        "value": "金平府"
+      },
+      {
+        "name": "来源",
+        "value": "原形犀牛"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "被井木犴咬死，肉被龙王父子享用"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "a385eac0-144d-5ec7-bc71-961751403a36",
+    "name": "辟暑大王",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "犀牛"
+      },
+      {
+        "name": "所在地",
+        "value": "金平府"
+      },
+      {
+        "name": "来源",
+        "value": "原形犀牛"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "被猪八戒砍掉脑袋"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "45906cd3-0609-59dd-8983-066a7e6a2d83",
+    "name": "辟尘大王",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "犀牛"
+      },
+      {
+        "name": "所在地",
+        "value": "金平府"
+      },
+      {
+        "name": "来源",
+        "value": "原形犀牛"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "被猪八戒砍掉脑袋"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "dc157a80-d110-5d25-85ee-570d0dc40482",
+    "name": "玉面狐狸",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "玉面公主"
+      },
+      {
+        "name": "原形",
+        "value": "狐狸"
+      },
+      {
+        "name": "所在地",
+        "value": "积雷山"
+      },
+      {
+        "name": "洞府",
+        "value": "摩云洞"
+      },
+      {
+        "name": "来源",
+        "value": "原形狐狸精"
+      },
+      {
+        "name": "性别",
+        "value": "女"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "被猪八戒打死"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "3566b10a-c39f-5708-9d15-872d909752bd",
+    "name": "万圣公主",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "万圣龙女"
+      },
+      {
+        "name": "原形",
+        "value": "龙"
+      },
+      {
+        "name": "所在地",
+        "value": "碧波谭"
+      },
+      {
+        "name": "来源",
+        "value": "原形万圣龙王之女"
+      },
+      {
+        "name": "性别",
+        "value": "女"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "被猪八戒打死"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "05f4b9c8-e4de-594b-9d26-b6cb2aaffbe6",
+    "name": "蟒蛇精",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "红蟒精"
+      },
+      {
+        "name": "原形",
+        "value": "蟒蛇"
+      },
+      {
+        "name": "所在地",
+        "value": "七绝山"
+      },
+      {
+        "name": "来源",
+        "value": "原形红鳞大蟒"
+      },
+      {
+        "name": "性别",
+        "value": "不明"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "被孙悟空搠死"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "72bf0808-37fb-558f-b9fa-c309331933b3",
+    "name": "蜘蛛精",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "蜘蛛"
+      },
+      {
+        "name": "洞府",
+        "value": "盘丝洞"
+      },
+      {
+        "name": "性别",
+        "value": "女"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "被孙悟空打死"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "026d24f2-dfa6-5fd5-bef0-c12423cf3c94",
+    "name": "六耳猕猴",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "久炼千灵缩地精"
+      },
+      {
+        "name": "原形",
+        "value": "猴子"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "在灵山被孙悟空打死"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "01564dd4-ad1f-5bb5-8b53-445e4ad32265",
+    "name": "白面狐狸",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "美后"
+      },
+      {
+        "name": "原形",
+        "value": "狐狸"
+      },
+      {
+        "name": "所在地",
+        "value": "比丘国"
+      },
+      {
+        "name": "来源",
+        "value": "原形狐狸"
+      },
+      {
+        "name": "性别",
+        "value": "女"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      },
+      {
+        "name": "结局细节",
+        "value": "被猪八戒打死"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "8ac11247-7fd3-5341-a106-48e5bf2eac39",
+    "name": "熊罴怪",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "黑熊怪、黑熊精"
+      },
+      {
+        "name": "原形",
+        "value": "熊"
+      },
+      {
+        "name": "所在地",
+        "value": "黑风山"
+      },
+      {
+        "name": "洞府",
+        "value": "黑风洞"
+      },
+      {
+        "name": "来源",
+        "value": "原形黑熊"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被观音菩萨收走"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "3104e211-6d8f-5f1b-9374-98f5dad5c7ae",
+    "name": "红孩儿",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "圣婴大王、善财童子、牛圣婴"
+      },
+      {
+        "name": "原形",
+        "value": "童子"
+      },
+      {
+        "name": "所在地",
+        "value": "号山枯松涧"
+      },
+      {
+        "name": "洞府",
+        "value": "火云洞"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被观音收为善财童子"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "e820789a-8762-5444-88b2-0e69f398dc21",
+    "name": "多目怪",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "百眼魔君、蜈蚣精"
+      },
+      {
+        "name": "原形",
+        "value": "蜈蚣"
+      },
+      {
+        "name": "来源",
+        "value": "原形蜈蚣"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被毗蓝婆菩萨收服，成千手千眼佛"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "b76d11a9-e822-55ba-a26b-4310b842ba90",
+    "name": "铁扇公主",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "罗刹女或铁扇仙"
+      },
+      {
+        "name": "原形",
+        "value": "人"
+      },
+      {
+        "name": "所在地",
+        "value": "翠云山"
+      },
+      {
+        "name": "洞府",
+        "value": "芭蕉洞"
+      },
+      {
+        "name": "性别",
+        "value": "女"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "铁扇修成了罗刹，佛教护法神"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "daf0507c-7db1-54c0-8235-7a103c030a86",
+    "name": "牛魔王",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "平天大圣"
+      },
+      {
+        "name": "原形",
+        "value": "牛"
+      },
+      {
+        "name": "所在地",
+        "value": "积雷山"
+      },
+      {
+        "name": "洞府",
+        "value": "摩云洞"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被李靖、哪吒拿回西天，归顺佛教，老牛修成了华光天王(佛教护法神)"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "9c80db6a-27cc-5e9f-a8e1-5b8c1002f1cc",
+    "name": "九头虫",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "九头驸马"
+      },
+      {
+        "name": "原形",
+        "value": "九头虫"
+      },
+      {
+        "name": "所在地",
+        "value": "碧波谭"
+      },
+      {
+        "name": "来源",
+        "value": "原形九头鸟"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      },
+      {
+        "name": "结局细节",
+        "value": "被哮天犬咬掉一颗头颅后，受伤逃往北海不知所踪。"
+      },
+      {
+        "name": "背景",
+        "value": "无"
+      }
+    ]
+  },
+  {
+    "id": "5c6c1e61-d75a-5143-adc1-0115e4f7018f",
+    "name": "杏仙",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "杏树"
+      },
+      {
+        "name": "所在地",
+        "value": "荆棘岭"
+      },
+      {
+        "name": "洞府",
+        "value": "木仙庵"
+      },
+      {
+        "name": "性别",
+        "value": "女"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      }
+    ]
+  },
+  {
+    "id": "c8e409c8-7606-531b-8503-ef5a43bbe8d3",
+    "name": "孤直公",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "柏树"
+      },
+      {
+        "name": "所在地",
+        "value": "荆棘岭"
+      },
+      {
+        "name": "洞府",
+        "value": "木仙庵"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      }
+    ]
+  },
+  {
+    "id": "9d4f190b-9f3e-5145-a8d3-bec3fbe7dd16",
+    "name": "浮云叟",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "竹竿"
+      },
+      {
+        "name": "所在地",
+        "value": "荆棘岭"
+      },
+      {
+        "name": "洞府",
+        "value": "木仙庵"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      }
+    ]
+  },
+  {
+    "id": "cf7fe260-a6fe-589f-b7ba-62375f8695a0",
+    "name": "凌空子",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "原形",
+        "value": "桧树"
+      },
+      {
+        "name": "所在地",
+        "value": "荆棘岭"
+      },
+      {
+        "name": "洞府",
+        "value": "木仙庵"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      }
+    ]
+  },
+  {
+    "id": "e35c2eed-39c0-5a1a-8c07-74283842d46a",
+    "name": "黄狮精",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "所在地",
+        "value": "豹头山"
+      },
+      {
+        "name": "洞府",
+        "value": "虎口洞"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      }
+    ]
+  },
+  {
+    "id": "31ef5d63-05a9-5477-88ab-6cb4015c062c",
+    "name": "万圣龙王",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      }
+    ]
+  },
+  {
+    "id": "d65c968a-8471-52a6-85f8-1e68190742a3",
+    "name": "六狮",
+    "label": "妖怪_死",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "死"
+      }
+    ]
+  },
+  {
+    "id": "c70b1def-c606-5f98-9955-4500f7897d3e",
+    "name": "如意真仙",
+    "label": "妖怪_活",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      },
+      {
+        "name": "结局",
+        "value": "活"
+      }
+    ]
+  },
+  {
+    "id": "9f89e57d-3ede-5cc8-a4ad-fa527b3a0284",
+    "name": "太阴星君",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "ce2857b4-e2d1-5711-935b-cd6527427412",
+    "name": "太上老君",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd",
+    "name": "观音菩萨",
+    "label": "神仙_佛派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "女"
+      }
+    ]
+  },
+  {
+    "id": "ff697c8d-d45b-5f7e-bd59-c4580db1b3c1",
+    "name": "文殊菩萨",
+    "label": "神仙_佛派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "30c1ded4-bd1f-5a3d-976c-5fa816e43ec3",
+    "name": "普贤菩萨",
+    "label": "神仙_佛派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "f348e873-260d-5dda-ac85-d7d9fbfbcd67",
+    "name": "灵吉菩萨",
+    "label": "神仙_佛派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "72d21525-1d47-52b5-9418-00f7e32f7ac7",
+    "name": "如来佛祖",
+    "label": "神仙_佛派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "b9b9972d-ea22-5d36-b3a3-70ec47e4cc7b",
+    "name": "太乙救苦天尊",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "98a2634d-cf08-5364-9736-499f8bc026b3",
+    "name": "寿星",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "83606978-a035-5a5d-be3c-8304ce3a6f6b",
+    "name": "西海龙王",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "6385a3a0-e8fd-5a4a-9070-47da5ce42d78",
+    "name": "摩昂太子",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "df493e62-3f62-52c1-bc09-f690acef9ea3",
+    "name": "哪吒",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "06cefc69-69ec-52a3-849d-7c57544ce97a",
+    "name": "木吒",
+    "label": "神仙_佛派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "4cbb07aa-8465-57cc-8dbe-778fd3f7d588",
+    "name": "卯日星官",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "9d4835b3-7d77-51a9-84fc-3e4d41380e12",
+    "name": "毗蓝婆菩萨",
+    "label": "神仙_佛派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "女"
+      }
+    ]
+  },
+  {
+    "id": "8dc0f3bd-6603-581a-91d2-1a35df2c6a13",
+    "name": "孔雀大明王菩萨",
+    "label": "神仙_佛派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "女"
+      }
+    ]
+  },
+  {
+    "id": "97275f5a-1f26-5dfd-ac91-bea9c4e1e86a",
+    "name": "托塔天王",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "name": "玉皇大帝",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "b3dd68aa-3452-5ae0-87d5-056b73c5e243",
+    "name": "弥勒佛",
+    "label": "神仙_佛派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "7f5ef517-ed30-5633-a99b-8935b4a6f5ed",
+    "name": "二郎神",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "别称",
+        "value": "杨戬、杨二郎"
+      },
+      {
+        "name": "所在地",
+        "value": "灌江口"
+      },
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "6f9a98d2-d1a9-563b-93c7-43adec3dac8c",
+    "name": "太白金星",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "性别",
+        "value": "男"
+      }
+    ]
+  },
+  {
+    "id": "93b8c8e9-3338-5aee-800a-b7e1f9a04812",
+    "name": "车迟集团",
+    "label": "团体_妖怪",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "结局",
+        "value": "覆灭"
+      }
+    ]
+  },
+  {
+    "id": "8aabe79c-c621-5936-b715-2103bbad508b",
+    "name": "狮驼集团",
+    "label": "团体_妖怪",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "结局",
+        "value": "覆灭"
+      }
+    ]
+  },
+  {
+    "id": "77c21377-c5e3-5949-adff-210337849d02",
+    "name": "昆虫集团",
+    "label": "团体_妖怪",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "结局",
+        "value": "覆灭"
+      }
+    ]
+  },
+  {
+    "id": "05b75805-5183-5c4e-be77-9f648e3a087d",
+    "name": "西天同学会",
+    "label": "团体_妖怪",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "结局",
+        "value": "覆灭"
+      }
+    ]
+  },
+  {
+    "id": "14eeca50-7a2c-5db9-8e63-27b0c9e8f5c6",
+    "name": "木仙庵",
+    "label": "团体_妖怪",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": [
+      {
+        "name": "结局",
+        "value": "覆灭"
+      }
+    ]
+  },
+  {
+    "id": "176b186b-b605-5e18-b1a1-2276aad29322",
+    "name": "井木犴",
+    "label": "神仙_道派",
+    "scenarios": [
+      "aaa"
+    ],
+    "nodeType": null,
+    "leadSentence": null,
+    "properties": []
+  }
+]

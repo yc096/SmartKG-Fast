@@ -1,0 +1,737 @@
+﻿[
+  {
+    "id": "0916a918-5d10-4b0a-8078-28162aea0b7c",
+    "intentName": "abc",
+    "similarWord": "唐三藏",
+    "entityValue": "唐三藏",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "ed791134-bb9a-45cd-a352-f9194ae80d1f",
+    "intentName": "abc",
+    "similarWord": "孙悟空",
+    "entityValue": "孙悟空",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "3b83ad83-88a1-413e-b12d-13c0cdfdaacc",
+    "intentName": "abc",
+    "similarWord": "猪悟能",
+    "entityValue": "猪悟能",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "119d93de-5292-4d56-b58c-0cf8a5509540",
+    "intentName": "abc",
+    "similarWord": "沙悟净",
+    "entityValue": "沙悟净",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "11f9a80f-31a5-494f-b969-fae7628a770d",
+    "intentName": "abc",
+    "similarWord": "白龙马",
+    "entityValue": "白龙马",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "98f6d7ec-dd42-49b4-8db4-486984a6c0b3",
+    "intentName": "abc",
+    "similarWord": "黄眉大王",
+    "entityValue": "黄眉大王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "6f6a1ab6-7500-440c-9ff9-2cc42c6edf03",
+    "intentName": "abc",
+    "similarWord": "赛太岁",
+    "entityValue": "赛太岁",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "db9a01b3-fcf3-4285-8b77-bf0a6fe2b495",
+    "intentName": "abc",
+    "similarWord": "青毛狮子",
+    "entityValue": "青毛狮子",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "6ddb7947-3635-4410-9e72-9e88a21e3592",
+    "intentName": "abc",
+    "similarWord": "黄牙老象",
+    "entityValue": "黄牙老象",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "1eb37696-f40c-4cce-9326-bd2ea0008663",
+    "intentName": "abc",
+    "similarWord": "金翅大鹏雕",
+    "entityValue": "金翅大鹏雕",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "b7c069da-a09a-475e-801e-96d27cb116c9",
+    "intentName": "abc",
+    "similarWord": "狮猁怪",
+    "entityValue": "狮猁怪",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "023bfe62-5901-4c6c-9f54-0aaeeee5ab54",
+    "intentName": "abc",
+    "similarWord": "黄风怪",
+    "entityValue": "黄风怪",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "7760b5be-c3fe-4ad0-a18b-ac0161957409",
+    "intentName": "abc",
+    "similarWord": "灵感大王",
+    "entityValue": "灵感大王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "a89cce5a-3fe2-4e29-9d1d-05f6319629cb",
+    "intentName": "abc",
+    "similarWord": "蝎子精",
+    "entityValue": "蝎子精",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "59fcf87b-6ba9-404e-b069-a0776aef9457",
+    "intentName": "abc",
+    "similarWord": "金鼻白毛老鼠精",
+    "entityValue": "金鼻白毛老鼠精",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "40a799ad-3cf5-433c-a3e5-5f143a66ea4e",
+    "intentName": "abc",
+    "similarWord": "独角兕大王",
+    "entityValue": "独角兕大王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "7452a85a-7904-4e18-a896-dfa90e6c2b5e",
+    "intentName": "abc",
+    "similarWord": "九灵元圣",
+    "entityValue": "九灵元圣",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "fac21019-a4cf-4431-82d1-311e958f3647",
+    "intentName": "abc",
+    "similarWord": "金角大王",
+    "entityValue": "金角大王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "46f52385-02b6-4460-ae15-9faa5653e751",
+    "intentName": "abc",
+    "similarWord": "银角大王",
+    "entityValue": "银角大王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "59eec680-a216-47d2-aad4-a5f5017c7f98",
+    "intentName": "abc",
+    "similarWord": "黄袍怪",
+    "entityValue": "黄袍怪",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "967c67f6-a1c8-4f5b-8e0e-8f7a4df90cb4",
+    "intentName": "abc",
+    "similarWord": "玉兔精",
+    "entityValue": "玉兔精",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "7f30bd76-2e8d-4466-99ec-6b401fa20e88",
+    "intentName": "abc",
+    "similarWord": "鼍龙",
+    "entityValue": "鼍龙",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "a33b362c-15d3-4bd6-90df-abfe29a393e3",
+    "intentName": "abc",
+    "similarWord": "白鹿精",
+    "entityValue": "白鹿精",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "e91e54ef-44b9-419c-bd6f-ae98320bd91a",
+    "intentName": "abc",
+    "similarWord": "白骨夫人",
+    "entityValue": "白骨夫人",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "44d7e07e-802a-4ac0-ac71-6e711d19388e",
+    "intentName": "abc",
+    "similarWord": "虎力大仙",
+    "entityValue": "虎力大仙",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "4935ea65-d58b-49fd-a539-20bc74cd542e",
+    "intentName": "abc",
+    "similarWord": "鹿力大仙",
+    "entityValue": "鹿力大仙",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "37e771ae-5e98-4940-9f8a-8aa10865d3a8",
+    "intentName": "abc",
+    "similarWord": "羊力大仙",
+    "entityValue": "羊力大仙",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "0538e153-0585-43c0-909d-c0f9c50a50ae",
+    "intentName": "abc",
+    "similarWord": "南山大王",
+    "entityValue": "南山大王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "78b04776-1f5c-40e4-be69-4ef6695f629f",
+    "intentName": "abc",
+    "similarWord": "辟寒大王",
+    "entityValue": "辟寒大王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "fe154325-f3c8-4cba-a04e-5c01d8c9924b",
+    "intentName": "abc",
+    "similarWord": "辟暑大王",
+    "entityValue": "辟暑大王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "166a9fb7-7940-447e-ab82-2d6f5afaa7d8",
+    "intentName": "abc",
+    "similarWord": "辟尘大王",
+    "entityValue": "辟尘大王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "42d9b953-626a-48bf-a154-d30c05512c44",
+    "intentName": "abc",
+    "similarWord": "玉面狐狸",
+    "entityValue": "玉面狐狸",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "33f0f58a-1320-4563-87c7-12ecac0a2a1e",
+    "intentName": "abc",
+    "similarWord": "万圣公主",
+    "entityValue": "万圣公主",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "46320c57-dbef-4788-a791-87331218ff18",
+    "intentName": "abc",
+    "similarWord": "蟒蛇精",
+    "entityValue": "蟒蛇精",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "d632c419-99bd-485a-9684-b93bc63e4c85",
+    "intentName": "abc",
+    "similarWord": "蜘蛛精",
+    "entityValue": "蜘蛛精",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "36b100c5-dfe8-4d6a-94a8-7d8a554b6336",
+    "intentName": "abc",
+    "similarWord": "六耳猕猴",
+    "entityValue": "六耳猕猴",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "4c0774b8-f183-4ef3-92c5-0dee809d352a",
+    "intentName": "abc",
+    "similarWord": "白面狐狸",
+    "entityValue": "白面狐狸",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "4837d74b-c0fd-4ed2-940e-d79afddb8701",
+    "intentName": "abc",
+    "similarWord": "熊罴怪",
+    "entityValue": "熊罴怪",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "7f0bdaa2-ef92-4372-80a9-1da7fa5e4835",
+    "intentName": "abc",
+    "similarWord": "红孩儿",
+    "entityValue": "红孩儿",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "42f52e33-d1f8-4702-a116-4fd611279034",
+    "intentName": "abc",
+    "similarWord": "多目怪",
+    "entityValue": "多目怪",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "d0b5d106-c251-4efd-9388-9f7be0b81b3d",
+    "intentName": "abc",
+    "similarWord": "铁扇公主",
+    "entityValue": "铁扇公主",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "69a92f76-75b7-488d-86c2-e6f9e51dae6f",
+    "intentName": "abc",
+    "similarWord": "牛魔王",
+    "entityValue": "牛魔王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "6a085dbb-a091-4e90-bd19-298d539dbc8d",
+    "intentName": "abc",
+    "similarWord": "九头虫",
+    "entityValue": "九头虫",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "c65d3d3e-1afa-48b6-9e72-d2a46761c865",
+    "intentName": "abc",
+    "similarWord": "杏仙",
+    "entityValue": "杏仙",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "d5f3a53f-3fea-4d4e-8215-0e7c02307625",
+    "intentName": "abc",
+    "similarWord": "孤直公",
+    "entityValue": "孤直公",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "17f26223-489f-4958-85df-976cb3ee54b2",
+    "intentName": "abc",
+    "similarWord": "浮云叟",
+    "entityValue": "浮云叟",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "ed42968b-4786-4f75-b612-58a81835f4a4",
+    "intentName": "abc",
+    "similarWord": "凌空子",
+    "entityValue": "凌空子",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "6c2cd204-8a69-4c69-86a8-439f66e1f5bd",
+    "intentName": "abc",
+    "similarWord": "黄狮精",
+    "entityValue": "黄狮精",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "88e029b8-f795-4567-baa4-b3950f1c66b1",
+    "intentName": "abc",
+    "similarWord": "万圣龙王",
+    "entityValue": "万圣龙王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "0ee8eded-0145-468b-8f19-7e3d170626a3",
+    "intentName": "abc",
+    "similarWord": "六狮",
+    "entityValue": "六狮",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "688ff904-d843-44af-a2e8-c14014866251",
+    "intentName": "abc",
+    "similarWord": "如意真仙",
+    "entityValue": "如意真仙",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "26e318b6-beee-4ab5-a2b3-57e080428e89",
+    "intentName": "abc",
+    "similarWord": "太阴星君",
+    "entityValue": "太阴星君",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "aea56b9e-9400-450e-9cf3-32172ceb7631",
+    "intentName": "abc",
+    "similarWord": "太上老君",
+    "entityValue": "太上老君",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "07507143-2af5-4d0c-a9c6-e559537017e4",
+    "intentName": "abc",
+    "similarWord": "观音菩萨",
+    "entityValue": "观音菩萨",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "fed90aa9-08b1-4528-a472-54718efd1847",
+    "intentName": "abc",
+    "similarWord": "文殊菩萨",
+    "entityValue": "文殊菩萨",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "31e66e54-db70-428f-bbfd-153648d405fa",
+    "intentName": "abc",
+    "similarWord": "普贤菩萨",
+    "entityValue": "普贤菩萨",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "d0013d30-499f-4b50-98c7-0e03355ace35",
+    "intentName": "abc",
+    "similarWord": "灵吉菩萨",
+    "entityValue": "灵吉菩萨",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "1e163614-b367-4414-8af6-2860fe3dcec9",
+    "intentName": "abc",
+    "similarWord": "如来佛祖",
+    "entityValue": "如来佛祖",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "d2080fcd-c9a7-42d2-848d-9d6cb80fa9b3",
+    "intentName": "abc",
+    "similarWord": "太乙救苦天尊",
+    "entityValue": "太乙救苦天尊",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "033dcd01-7b81-44d6-9dcd-08a7c24a2901",
+    "intentName": "abc",
+    "similarWord": "寿星",
+    "entityValue": "寿星",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "5f6df1af-2796-44b9-87b7-b723dfb94b13",
+    "intentName": "abc",
+    "similarWord": "西海龙王",
+    "entityValue": "西海龙王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "d56a9cfb-9b34-41a7-8a76-73086fa1c15b",
+    "intentName": "abc",
+    "similarWord": "摩昂太子",
+    "entityValue": "摩昂太子",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "3321125f-42b8-4e17-9452-3c1801559602",
+    "intentName": "abc",
+    "similarWord": "哪吒",
+    "entityValue": "哪吒",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "65dadaf1-8b3e-4b23-95ca-2ac972606680",
+    "intentName": "abc",
+    "similarWord": "木吒",
+    "entityValue": "木吒",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "f750490b-5ccc-4a5b-941b-2b0d54d81a3c",
+    "intentName": "abc",
+    "similarWord": "卯日星官",
+    "entityValue": "卯日星官",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "37bfe299-cf2d-4877-a9c2-369708a89e78",
+    "intentName": "abc",
+    "similarWord": "毗蓝婆菩萨",
+    "entityValue": "毗蓝婆菩萨",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "1698e776-a08f-41bb-a8ce-92d380aa7736",
+    "intentName": "abc",
+    "similarWord": "孔雀大明王菩萨",
+    "entityValue": "孔雀大明王菩萨",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "dfd4d2d5-b2a3-4794-9521-c53c0c134800",
+    "intentName": "abc",
+    "similarWord": "托塔天王",
+    "entityValue": "托塔天王",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "d85280dd-9de6-4220-bdc3-abc66d15738d",
+    "intentName": "abc",
+    "similarWord": "玉皇大帝",
+    "entityValue": "玉皇大帝",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "3054b501-4951-4671-829c-54e92baa7729",
+    "intentName": "abc",
+    "similarWord": "弥勒佛",
+    "entityValue": "弥勒佛",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "60eabdd1-4e31-4e15-b26c-cd429dae52c0",
+    "intentName": "abc",
+    "similarWord": "二郎神",
+    "entityValue": "二郎神",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "684cf9b1-0015-4d9d-bee9-cd381665e548",
+    "intentName": "abc",
+    "similarWord": "太白金星",
+    "entityValue": "太白金星",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "9312f3dd-6453-44bb-a851-e301fb66eea6",
+    "intentName": "abc",
+    "similarWord": "车迟集团",
+    "entityValue": "车迟集团",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "ffb79ee8-69e5-45d2-847d-d818c6cb401f",
+    "intentName": "abc",
+    "similarWord": "狮驼集团",
+    "entityValue": "狮驼集团",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "59434206-5143-4747-bc58-107609ff5bb4",
+    "intentName": "abc",
+    "similarWord": "昆虫集团",
+    "entityValue": "昆虫集团",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "d2e5da12-3388-42ff-8066-d5254cb329ad",
+    "intentName": "abc",
+    "similarWord": "西天同学会",
+    "entityValue": "西天同学会",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "4264cdc7-faa4-4370-9a96-0476db00f614",
+    "intentName": "abc",
+    "similarWord": "木仙庵",
+    "entityValue": "木仙庵",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "26fa0198-8a92-45a4-9246-2f3705594165",
+    "intentName": "abc",
+    "similarWord": "井木犴",
+    "entityValue": "井木犴",
+    "entityType": "NodeName"
+  },
+  {
+    "id": "c03e6e6e-cf12-42e8-b4ec-2d072cbe0b75",
+    "intentName": "abc",
+    "similarWord": "别称",
+    "entityValue": "别称",
+    "entityType": "PropertyName"
+  },
+  {
+    "id": "5439a1c1-d52b-4445-b547-2f5f182e87cd",
+    "intentName": "abc",
+    "similarWord": "原形",
+    "entityValue": "原形",
+    "entityType": "PropertyName"
+  },
+  {
+    "id": "e66509bd-072d-4671-b274-397f7ae240bf",
+    "intentName": "abc",
+    "similarWord": "所在地",
+    "entityValue": "所在地",
+    "entityType": "PropertyName"
+  },
+  {
+    "id": "639d4b90-7f21-4f67-b075-2e55a26aab42",
+    "intentName": "abc",
+    "similarWord": "来源",
+    "entityValue": "来源",
+    "entityType": "PropertyName"
+  },
+  {
+    "id": "b226b825-2ab1-4df3-bcbd-e87b850c8b09",
+    "intentName": "abc",
+    "similarWord": "性别",
+    "entityValue": "性别",
+    "entityType": "PropertyName"
+  },
+  {
+    "id": "66cf623c-61aa-4361-9df6-891a49e0f673",
+    "intentName": "abc",
+    "similarWord": "结局",
+    "entityValue": "结局",
+    "entityType": "PropertyName"
+  },
+  {
+    "id": "92839799-4b66-4af2-bf54-0265cf6eccef",
+    "intentName": "abc",
+    "similarWord": "结局细节",
+    "entityValue": "结局细节",
+    "entityType": "PropertyName"
+  },
+  {
+    "id": "4743f108-4859-49dc-9830-900ea90e8a05",
+    "intentName": "abc",
+    "similarWord": "洞府",
+    "entityValue": "洞府",
+    "entityType": "PropertyName"
+  },
+  {
+    "id": "bdd98afb-3312-481d-be2b-c3ab4e6c17e3",
+    "intentName": "abc",
+    "similarWord": "背景",
+    "entityValue": "背景",
+    "entityType": "PropertyName"
+  },
+  {
+    "id": "97d51758-5b11-401e-9d37-bd15bd92a999",
+    "intentName": "abc",
+    "similarWord": "下级",
+    "entityValue": "下级",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "6e245dad-17c6-4fdb-a31f-2e08d097ca11",
+    "intentName": "abc",
+    "similarWord": "上级",
+    "entityValue": "上级",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "f06ef3f6-f939-4ec3-9461-26c1c206b59e",
+    "intentName": "abc",
+    "similarWord": "妻子",
+    "entityValue": "妻子",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "2807a162-a974-44db-8880-e926fdad3e17",
+    "intentName": "abc",
+    "similarWord": "丈夫",
+    "entityValue": "丈夫",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "7b0c0365-c127-4be6-b19f-75ad339a3c13",
+    "intentName": "abc",
+    "similarWord": "儿子",
+    "entityValue": "儿子",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "e11b9f22-d08b-4608-b286-8de4f02fad96",
+    "intentName": "abc",
+    "similarWord": "父亲",
+    "entityValue": "父亲",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "29ec691d-1f98-478d-8171-f7648c6bbddd",
+    "intentName": "abc",
+    "similarWord": "母亲",
+    "entityValue": "母亲",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "8013cb5f-4ed7-4fbb-ba84-84e10beb4fc3",
+    "intentName": "abc",
+    "similarWord": "女儿",
+    "entityValue": "女儿",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "9534ed46-0ad1-4f7f-8f15-42297185bb94",
+    "intentName": "abc",
+    "similarWord": "兄弟",
+    "entityValue": "兄弟",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "20265491-688e-4ef7-a1f2-3ff9497ec92a",
+    "intentName": "abc",
+    "similarWord": "组成",
+    "entityValue": "组成",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "da37de8e-0fc1-483d-b9b8-3c14734af0af",
+    "intentName": "abc",
+    "similarWord": "孙子",
+    "entityValue": "孙子",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "031e78ef-be1c-4a06-ab4a-c678020005ef",
+    "intentName": "abc",
+    "similarWord": "祖父",
+    "entityValue": "祖父",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "d0667fc0-4894-4960-9fe9-31c0181d4d83",
+    "intentName": "abc",
+    "similarWord": "亲戚",
+    "entityValue": "亲戚",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "67c0209c-cfe1-4f5f-8470-2368c78794c6",
+    "intentName": "abc",
+    "similarWord": "奴仆",
+    "entityValue": "奴仆",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "30e6bc56-eac2-4e0f-9680-a3c3e59fa501",
+    "intentName": "abc",
+    "similarWord": "主人",
+    "entityValue": "主人",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "1725e8db-d968-4c86-83e4-b15eddbed61c",
+    "intentName": "abc",
+    "similarWord": "杀死",
+    "entityValue": "杀死",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "75ab5a39-349c-4422-8b30-ac47fd8bdb96",
+    "intentName": "abc",
+    "similarWord": "打伤",
+    "entityValue": "打伤",
+    "entityType": "RelationType"
+  },
+  {
+    "id": "0ce604bf-b215-4df5-8b5b-acb74fb26e68",
+    "intentName": "abc",
+    "similarWord": "收服",
+    "entityValue": "收服",
+    "entityType": "RelationType"
+  }
+]

@@ -1,0 +1,1346 @@
+﻿[
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "c440e797-021d-58f5-aee3-0ac0f622fbf2",
+    "tailVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "c440e797-021d-58f5-aee3-0ac0f622fbf2"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "c440e797-021d-58f5-aee3-0ac0f622fbf2",
+    "tailVertexId": "6219182b-1671-56cc-9c34-c3d134bc63dd"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "6219182b-1671-56cc-9c34-c3d134bc63dd",
+    "tailVertexId": "c440e797-021d-58f5-aee3-0ac0f622fbf2"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "c440e797-021d-58f5-aee3-0ac0f622fbf2",
+    "tailVertexId": "039176d6-e1cb-5a8e-b102-c0ee02790a91"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "039176d6-e1cb-5a8e-b102-c0ee02790a91",
+    "tailVertexId": "c440e797-021d-58f5-aee3-0ac0f622fbf2"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "c440e797-021d-58f5-aee3-0ac0f622fbf2",
+    "tailVertexId": "41b4d6f9-fe26-5bdd-a668-2b17c3545dc1"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "41b4d6f9-fe26-5bdd-a668-2b17c3545dc1",
+    "tailVertexId": "c440e797-021d-58f5-aee3-0ac0f622fbf2"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "妻子",
+    "headVertexId": "daf0507c-7db1-54c0-8235-7a103c030a86",
+    "tailVertexId": "b76d11a9-e822-55ba-a26b-4310b842ba90"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "丈夫",
+    "headVertexId": "b76d11a9-e822-55ba-a26b-4310b842ba90",
+    "tailVertexId": "daf0507c-7db1-54c0-8235-7a103c030a86"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "妻子",
+    "headVertexId": "daf0507c-7db1-54c0-8235-7a103c030a86",
+    "tailVertexId": "dc157a80-d110-5d25-85ee-570d0dc40482"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "丈夫",
+    "headVertexId": "dc157a80-d110-5d25-85ee-570d0dc40482",
+    "tailVertexId": "daf0507c-7db1-54c0-8235-7a103c030a86"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "儿子",
+    "headVertexId": "83606978-a035-5a5d-be3c-8304ce3a6f6b",
+    "tailVertexId": "6385a3a0-e8fd-5a4a-9070-47da5ce42d78"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "父亲",
+    "headVertexId": "6385a3a0-e8fd-5a4a-9070-47da5ce42d78",
+    "tailVertexId": "83606978-a035-5a5d-be3c-8304ce3a6f6b"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "儿子",
+    "headVertexId": "b76d11a9-e822-55ba-a26b-4310b842ba90",
+    "tailVertexId": "3104e211-6d8f-5f1b-9374-98f5dad5c7ae"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "母亲",
+    "headVertexId": "3104e211-6d8f-5f1b-9374-98f5dad5c7ae",
+    "tailVertexId": "b76d11a9-e822-55ba-a26b-4310b842ba90"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "女儿",
+    "headVertexId": "31ef5d63-05a9-5477-88ab-6cb4015c062c",
+    "tailVertexId": "3566b10a-c39f-5708-9d15-872d909752bd"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "父亲",
+    "headVertexId": "3566b10a-c39f-5708-9d15-872d909752bd",
+    "tailVertexId": "31ef5d63-05a9-5477-88ab-6cb4015c062c"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "妻子",
+    "headVertexId": "9c80db6a-27cc-5e9f-a8e1-5b8c1002f1cc",
+    "tailVertexId": "3566b10a-c39f-5708-9d15-872d909752bd"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "丈夫",
+    "headVertexId": "3566b10a-c39f-5708-9d15-872d909752bd",
+    "tailVertexId": "9c80db6a-27cc-5e9f-a8e1-5b8c1002f1cc"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "daf0507c-7db1-54c0-8235-7a103c030a86",
+    "tailVertexId": "c70b1def-c606-5f98-9955-4500f7897d3e"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "c70b1def-c606-5f98-9955-4500f7897d3e",
+    "tailVertexId": "daf0507c-7db1-54c0-8235-7a103c030a86"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "妻子",
+    "headVertexId": "6404a185-a922-5866-b171-6aa8ffc9f2bc",
+    "tailVertexId": "01564dd4-ad1f-5bb5-8b53-445e4ad32265"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "丈夫",
+    "headVertexId": "01564dd4-ad1f-5bb5-8b53-445e4ad32265",
+    "tailVertexId": "6404a185-a922-5866-b171-6aa8ffc9f2bc"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "b9b9972d-ea22-5d36-b3a3-70ec47e4cc7b"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "b9b9972d-ea22-5d36-b3a3-70ec47e4cc7b",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "98a2634d-cf08-5364-9736-499f8bc026b3"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "98a2634d-cf08-5364-9736-499f8bc026b3",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "83606978-a035-5a5d-be3c-8304ce3a6f6b"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "83606978-a035-5a5d-be3c-8304ce3a6f6b",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "97275f5a-1f26-5dfd-ac91-bea9c4e1e86a"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "97275f5a-1f26-5dfd-ac91-bea9c4e1e86a",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "176b186b-b605-5e18-b1a1-2276aad29322"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "176b186b-b605-5e18-b1a1-2276aad29322",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7",
+    "tailVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd",
+    "tailVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7",
+    "tailVertexId": "ff697c8d-d45b-5f7e-bd59-c4580db1b3c1"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "ff697c8d-d45b-5f7e-bd59-c4580db1b3c1",
+    "tailVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7",
+    "tailVertexId": "30c1ded4-bd1f-5a3d-976c-5fa816e43ec3"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "30c1ded4-bd1f-5a3d-976c-5fa816e43ec3",
+    "tailVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7",
+    "tailVertexId": "f348e873-260d-5dda-ac85-d7d9fbfbcd67"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "f348e873-260d-5dda-ac85-d7d9fbfbcd67",
+    "tailVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd",
+    "tailVertexId": "06cefc69-69ec-52a3-849d-7c57544ce97a"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "06cefc69-69ec-52a3-849d-7c57544ce97a",
+    "tailVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "儿子",
+    "headVertexId": "97275f5a-1f26-5dfd-ac91-bea9c4e1e86a",
+    "tailVertexId": "df493e62-3f62-52c1-bc09-f690acef9ea3"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "父亲",
+    "headVertexId": "df493e62-3f62-52c1-bc09-f690acef9ea3",
+    "tailVertexId": "97275f5a-1f26-5dfd-ac91-bea9c4e1e86a"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "儿子",
+    "headVertexId": "97275f5a-1f26-5dfd-ac91-bea9c4e1e86a",
+    "tailVertexId": "06cefc69-69ec-52a3-849d-7c57544ce97a"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "父亲",
+    "headVertexId": "06cefc69-69ec-52a3-849d-7c57544ce97a",
+    "tailVertexId": "97275f5a-1f26-5dfd-ac91-bea9c4e1e86a"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "06cefc69-69ec-52a3-849d-7c57544ce97a",
+    "tailVertexId": "df493e62-3f62-52c1-bc09-f690acef9ea3"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "df493e62-3f62-52c1-bc09-f690acef9ea3",
+    "tailVertexId": "06cefc69-69ec-52a3-849d-7c57544ce97a"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "2f2e7204-92d4-5c3e-a704-2fc07c878f94",
+    "tailVertexId": "250b0625-8213-5518-8a00-da3dce2b72e6"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "250b0625-8213-5518-8a00-da3dce2b72e6",
+    "tailVertexId": "2f2e7204-92d4-5c3e-a704-2fc07c878f94"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "5ac3848d-cf8d-5296-bda1-8c2f065903bb",
+    "tailVertexId": "93b8c8e9-3338-5aee-800a-b7e1f9a04812"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "4399f990-b615-58de-951b-0d7bc2d24863",
+    "tailVertexId": "93b8c8e9-3338-5aee-800a-b7e1f9a04812"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "57cb2c3e-c2ca-57c1-a49a-8da4631bf2ad",
+    "tailVertexId": "93b8c8e9-3338-5aee-800a-b7e1f9a04812"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "11394d0c-0016-50cd-84d8-8f0630dea082",
+    "tailVertexId": "a385eac0-144d-5ec7-bc71-961751403a36"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "a385eac0-144d-5ec7-bc71-961751403a36",
+    "tailVertexId": "11394d0c-0016-50cd-84d8-8f0630dea082"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "a385eac0-144d-5ec7-bc71-961751403a36",
+    "tailVertexId": "45906cd3-0609-59dd-8983-066a7e6a2d83"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "45906cd3-0609-59dd-8983-066a7e6a2d83",
+    "tailVertexId": "a385eac0-144d-5ec7-bc71-961751403a36"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "11394d0c-0016-50cd-84d8-8f0630dea082",
+    "tailVertexId": "45906cd3-0609-59dd-8983-066a7e6a2d83"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "45906cd3-0609-59dd-8983-066a7e6a2d83",
+    "tailVertexId": "11394d0c-0016-50cd-84d8-8f0630dea082"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "fc004ba9-2bd5-5a4f-b1b4-1c65e3f02668",
+    "tailVertexId": "8aabe79c-c621-5936-b715-2103bbad508b"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "96b6515c-fff0-5426-9ef9-b0bd95c68a07",
+    "tailVertexId": "8aabe79c-c621-5936-b715-2103bbad508b"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "efb1e4ed-8878-5ff3-b8c9-6514ce20251e",
+    "tailVertexId": "8aabe79c-c621-5936-b715-2103bbad508b"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "e820789a-8762-5444-88b2-0e69f398dc21",
+    "tailVertexId": "77c21377-c5e3-5949-adff-210337849d02"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "72bf0808-37fb-558f-b9fa-c309331933b3",
+    "tailVertexId": "77c21377-c5e3-5949-adff-210337849d02"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "孙子",
+    "headVertexId": "08bdf874-41c8-564c-8250-5878ee5f1fbb",
+    "tailVertexId": "e35c2eed-39c0-5a1a-8c07-74283842d46a"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "祖父",
+    "headVertexId": "e35c2eed-39c0-5a1a-8c07-74283842d46a",
+    "tailVertexId": "08bdf874-41c8-564c-8250-5878ee5f1fbb"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "孙子",
+    "headVertexId": "08bdf874-41c8-564c-8250-5878ee5f1fbb",
+    "tailVertexId": "d65c968a-8471-52a6-85f8-1e68190742a3"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "祖父",
+    "headVertexId": "d65c968a-8471-52a6-85f8-1e68190742a3",
+    "tailVertexId": "08bdf874-41c8-564c-8250-5878ee5f1fbb"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "04ce340d-3a8c-5a18-920c-cbfc9063f02b",
+    "tailVertexId": "05b75805-5183-5c4e-be77-9f648e3a087d"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "9ebd96e3-59f3-5092-99a5-7fe7cf7374d8",
+    "tailVertexId": "05b75805-5183-5c4e-be77-9f648e3a087d"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "246ceef1-e4a7-5d3e-a814-233b70360b46",
+    "tailVertexId": "05b75805-5183-5c4e-be77-9f648e3a087d"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "儿子",
+    "headVertexId": "8dc0f3bd-6603-581a-91d2-1a35df2c6a13",
+    "tailVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "母亲",
+    "headVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7",
+    "tailVertexId": "8dc0f3bd-6603-581a-91d2-1a35df2c6a13"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "儿子",
+    "headVertexId": "9d4835b3-7d77-51a9-84fc-3e4d41380e12",
+    "tailVertexId": "4cbb07aa-8465-57cc-8dbe-778fd3f7d588"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "母亲",
+    "headVertexId": "4cbb07aa-8465-57cc-8dbe-778fd3f7d588",
+    "tailVertexId": "9d4835b3-7d77-51a9-84fc-3e4d41380e12"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "5c6c1e61-d75a-5143-adc1-0115e4f7018f",
+    "tailVertexId": "14eeca50-7a2c-5db9-8e63-27b0c9e8f5c6"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "c8e409c8-7606-531b-8503-ef5a43bbe8d3",
+    "tailVertexId": "14eeca50-7a2c-5db9-8e63-27b0c9e8f5c6"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "9d4f190b-9f3e-5145-a8d3-bec3fbe7dd16",
+    "tailVertexId": "14eeca50-7a2c-5db9-8e63-27b0c9e8f5c6"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "组成",
+    "headVertexId": "cf7fe260-a6fe-589f-b7ba-62375f8695a0",
+    "tailVertexId": "14eeca50-7a2c-5db9-8e63-27b0c9e8f5c6"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "儿子",
+    "headVertexId": "daf0507c-7db1-54c0-8235-7a103c030a86",
+    "tailVertexId": "3104e211-6d8f-5f1b-9374-98f5dad5c7ae"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "父亲",
+    "headVertexId": "3104e211-6d8f-5f1b-9374-98f5dad5c7ae",
+    "tailVertexId": "daf0507c-7db1-54c0-8235-7a103c030a86"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7",
+    "tailVertexId": "b3dd68aa-3452-5ae0-87d5-056b73c5e243"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "b3dd68aa-3452-5ae0-87d5-056b73c5e243",
+    "tailVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "6f9a98d2-d1a9-563b-93c7-43adec3dac8c"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "6f9a98d2-d1a9-563b-93c7-43adec3dac8c",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "9f89e57d-3ede-5cc8-a4ad-fa527b3a0284"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "9f89e57d-3ede-5cc8-a4ad-fa527b3a0284",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "ce2857b4-e2d1-5711-935b-cd6527427412"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "ce2857b4-e2d1-5711-935b-cd6527427412",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "亲戚",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "7f5ef517-ed30-5633-a99b-8935b4a6f5ed"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "亲戚",
+    "headVertexId": "7f5ef517-ed30-5633-a99b-8935b4a6f5ed",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "4cbb07aa-8465-57cc-8dbe-778fd3f7d588"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "4cbb07aa-8465-57cc-8dbe-778fd3f7d588",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "b9b9972d-ea22-5d36-b3a3-70ec47e4cc7b",
+    "tailVertexId": "08bdf874-41c8-564c-8250-5878ee5f1fbb"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "08bdf874-41c8-564c-8250-5878ee5f1fbb",
+    "tailVertexId": "b9b9972d-ea22-5d36-b3a3-70ec47e4cc7b"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd",
+    "tailVertexId": "c93b9266-a384-5978-a426-c1ce88eee4b0"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "c93b9266-a384-5978-a426-c1ce88eee4b0",
+    "tailVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "ff697c8d-d45b-5f7e-bd59-c4580db1b3c1",
+    "tailVertexId": "fc004ba9-2bd5-5a4f-b1b4-1c65e3f02668"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "fc004ba9-2bd5-5a4f-b1b4-1c65e3f02668",
+    "tailVertexId": "ff697c8d-d45b-5f7e-bd59-c4580db1b3c1"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "30c1ded4-bd1f-5a3d-976c-5fa816e43ec3",
+    "tailVertexId": "96b6515c-fff0-5426-9ef9-b0bd95c68a07"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "96b6515c-fff0-5426-9ef9-b0bd95c68a07",
+    "tailVertexId": "30c1ded4-bd1f-5a3d-976c-5fa816e43ec3"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7",
+    "tailVertexId": "efb1e4ed-8878-5ff3-b8c9-6514ce20251e"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "efb1e4ed-8878-5ff3-b8c9-6514ce20251e",
+    "tailVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "ff697c8d-d45b-5f7e-bd59-c4580db1b3c1",
+    "tailVertexId": "4547e611-0aea-5fa0-8b91-527e3697a1a0"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "4547e611-0aea-5fa0-8b91-527e3697a1a0",
+    "tailVertexId": "ff697c8d-d45b-5f7e-bd59-c4580db1b3c1"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd",
+    "tailVertexId": "f885ce57-9044-5769-b3dc-fa90e1962f90"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "f885ce57-9044-5769-b3dc-fa90e1962f90",
+    "tailVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "ce2857b4-e2d1-5711-935b-cd6527427412",
+    "tailVertexId": "f07cb1a2-a648-59ff-9273-4c5402f35015"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "f07cb1a2-a648-59ff-9273-4c5402f35015",
+    "tailVertexId": "ce2857b4-e2d1-5711-935b-cd6527427412"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "ce2857b4-e2d1-5711-935b-cd6527427412",
+    "tailVertexId": "2f2e7204-92d4-5c3e-a704-2fc07c878f94"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "2f2e7204-92d4-5c3e-a704-2fc07c878f94",
+    "tailVertexId": "ce2857b4-e2d1-5711-935b-cd6527427412"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "ce2857b4-e2d1-5711-935b-cd6527427412",
+    "tailVertexId": "250b0625-8213-5518-8a00-da3dce2b72e6"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "250b0625-8213-5518-8a00-da3dce2b72e6",
+    "tailVertexId": "ce2857b4-e2d1-5711-935b-cd6527427412"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd",
+    "tailVertexId": "3104e211-6d8f-5f1b-9374-98f5dad5c7ae"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "3104e211-6d8f-5f1b-9374-98f5dad5c7ae",
+    "tailVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd",
+    "tailVertexId": "8ac11247-7fd3-5341-a106-48e5bf2eac39"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "8ac11247-7fd3-5341-a106-48e5bf2eac39",
+    "tailVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "98a2634d-cf08-5364-9736-499f8bc026b3",
+    "tailVertexId": "6404a185-a922-5866-b171-6aa8ffc9f2bc"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "6404a185-a922-5866-b171-6aa8ffc9f2bc",
+    "tailVertexId": "98a2634d-cf08-5364-9736-499f8bc026b3"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "9f89e57d-3ede-5cc8-a4ad-fa527b3a0284",
+    "tailVertexId": "412e7f25-1654-547c-8427-6e260761e71b"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "412e7f25-1654-547c-8427-6e260761e71b",
+    "tailVertexId": "9f89e57d-3ede-5cc8-a4ad-fa527b3a0284"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "奴仆",
+    "headVertexId": "b3dd68aa-3452-5ae0-87d5-056b73c5e243",
+    "tailVertexId": "2aadcdb2-ade0-5f10-ba68-75d0b787e431"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "主人",
+    "headVertexId": "2aadcdb2-ade0-5f10-ba68-75d0b787e431",
+    "tailVertexId": "b3dd68aa-3452-5ae0-87d5-056b73c5e243"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "亲戚",
+    "headVertexId": "83606978-a035-5a5d-be3c-8304ce3a6f6b",
+    "tailVertexId": "64fef0e3-29b3-5310-8d40-688016749be3"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "亲戚",
+    "headVertexId": "64fef0e3-29b3-5310-8d40-688016749be3",
+    "tailVertexId": "83606978-a035-5a5d-be3c-8304ce3a6f6b"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "亲戚",
+    "headVertexId": "6385a3a0-e8fd-5a4a-9070-47da5ce42d78",
+    "tailVertexId": "64fef0e3-29b3-5310-8d40-688016749be3"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "亲戚",
+    "headVertexId": "64fef0e3-29b3-5310-8d40-688016749be3",
+    "tailVertexId": "6385a3a0-e8fd-5a4a-9070-47da5ce42d78"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "8dc0f3bd-6603-581a-91d2-1a35df2c6a13",
+    "tailVertexId": "efb1e4ed-8878-5ff3-b8c9-6514ce20251e"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "兄弟",
+    "headVertexId": "efb1e4ed-8878-5ff3-b8c9-6514ce20251e",
+    "tailVertexId": "8dc0f3bd-6603-581a-91d2-1a35df2c6a13"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "下级",
+    "headVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad",
+    "tailVertexId": "39e15a53-1a84-5e3b-ae80-b7d4de75b70f"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "上级",
+    "headVertexId": "39e15a53-1a84-5e3b-ae80-b7d4de75b70f",
+    "tailVertexId": "518c3f55-ce8b-5e00-bef1-e0c69b0437ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "4cbb07aa-8465-57cc-8dbe-778fd3f7d588",
+    "tailVertexId": "246ceef1-e4a7-5d3e-a814-233b70360b46"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "打伤",
+    "headVertexId": "7f5ef517-ed30-5633-a99b-8935b4a6f5ed",
+    "tailVertexId": "9c80db6a-27cc-5e9f-a8e1-5b8c1002f1cc"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "收服",
+    "headVertexId": "9d4835b3-7d77-51a9-84fc-3e4d41380e12",
+    "tailVertexId": "e820789a-8762-5444-88b2-0e69f398dc21"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "收服",
+    "headVertexId": "f348e873-260d-5dda-ac85-d7d9fbfbcd67",
+    "tailVertexId": "04ce340d-3a8c-5a18-920c-cbfc9063f02b"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "女儿",
+    "headVertexId": "97275f5a-1f26-5dfd-ac91-bea9c4e1e86a",
+    "tailVertexId": "9ebd96e3-59f3-5092-99a5-7fe7cf7374d8"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "父亲",
+    "headVertexId": "9ebd96e3-59f3-5092-99a5-7fe7cf7374d8",
+    "tailVertexId": "97275f5a-1f26-5dfd-ac91-bea9c4e1e86a"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "9626ff6b-f138-5b2c-825c-d0b832d78422"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "5ac3848d-cf8d-5296-bda1-8c2f065903bb"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "4399f990-b615-58de-951b-0d7bc2d24863"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "57cb2c3e-c2ca-57c1-a49a-8da4631bf2ad"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "b9985d04-1041-513d-a4ba-6707b2e6a2cb"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "176b186b-b605-5e18-b1a1-2276aad29322",
+    "tailVertexId": "11394d0c-0016-50cd-84d8-8f0630dea082"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "a385eac0-144d-5ec7-bc71-961751403a36"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "45906cd3-0609-59dd-8983-066a7e6a2d83"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "6219182b-1671-56cc-9c34-c3d134bc63dd",
+    "tailVertexId": "dc157a80-d110-5d25-85ee-570d0dc40482"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "3566b10a-c39f-5708-9d15-872d909752bd"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "05f4b9c8-e4de-594b-9d26-b6cb2aaffbe6"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "72bf0808-37fb-558f-b9fa-c309331933b3"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "026d24f2-dfa6-5fd5-bef0-c12423cf3c94"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "6219182b-1671-56cc-9c34-c3d134bc63dd",
+    "tailVertexId": "01564dd4-ad1f-5bb5-8b53-445e4ad32265"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "收服",
+    "headVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd",
+    "tailVertexId": "8ac11247-7fd3-5341-a106-48e5bf2eac39"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "收服",
+    "headVertexId": "45c2e7de-1bb0-5e85-8d65-00649cae6cfd",
+    "tailVertexId": "3104e211-6d8f-5f1b-9374-98f5dad5c7ae"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "收服",
+    "headVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7",
+    "tailVertexId": "daf0507c-7db1-54c0-8235-7a103c030a86"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "5c6c1e61-d75a-5143-adc1-0115e4f7018f"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "c8e409c8-7606-531b-8503-ef5a43bbe8d3"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "9d4f190b-9f3e-5145-a8d3-bec3fbe7dd16"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "cf7fe260-a6fe-589f-b7ba-62375f8695a0"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "e35c2eed-39c0-5a1a-8c07-74283842d46a"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "31ef5d63-05a9-5477-88ab-6cb4015c062c"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "杀死",
+    "headVertexId": "7f6273c3-9eb1-5462-9a23-f42253eef9c5",
+    "tailVertexId": "d65c968a-8471-52a6-85f8-1e68190742a3"
+  },
+  {
+    "scenarios": [
+      "abc"
+    ],
+    "relationType": "收服",
+    "headVertexId": "72d21525-1d47-52b5-9418-00f7e32f7ac7",
+    "tailVertexId": "efb1e4ed-8878-5ff3-b8c9-6514ce20251e"
+  }
+]

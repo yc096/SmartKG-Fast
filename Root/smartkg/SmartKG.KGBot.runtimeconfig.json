@@ -1,0 +1,13 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp2.1.16",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "2.1.16"
+    },
+    "configProperties": {
+      "System.GC.Server": true,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
+    }
+  }
+}
