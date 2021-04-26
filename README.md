@@ -1,5 +1,5 @@
 # SmartKG-Fast
-SmartKG快速部署版，免去了繁琐的操作。
+SmartKG快速部署包(Windows)，免去了繁琐的操作。
 
 源:https://github.com/microsoft/SmartKG/tree/master/SmartKGUI
 
