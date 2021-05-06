@@ -1,7 +1,7 @@
 # SmartKG-Fast
 SmartKG快速部署包(Windows)，免去了繁琐的操作。
 
-源:https://github.com/microsoft/SmartKG/tree/master/SmartKGUI
+源:https://github.com/microsoft/SmartKG
 
 Root/Data:内含5个文件为5个类型数据，和一个数据模板excel。
 
